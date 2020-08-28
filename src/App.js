@@ -14,11 +14,11 @@ class App extends React.Component {
  
     ]
   }
-
-  componentDidMount() {
-    axios.get('https://jsonplaceholder.typicode.com/todos?_limit=10')
-      .then(res => this.setState({ todos:res.data}))
-  }
+// Removed default info
+  // componentDidMount() {
+  //   axios.get('https://jsonplaceholder.typicode.com/todos?_limit=10')
+  //     .then(res => this.setState({ todos:res.data}))
+  // }
 
 // Toggle Complete
   markComplete = (id) => {
