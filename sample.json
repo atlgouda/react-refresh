@@ -1,0 +1,62 @@
+[
+    {
+    "userId": 1,
+    "id": 1,
+    "title": "Take out the trash",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 2,
+    "title": "Walk the dog",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 3,
+    "title": "Get birthday present for Jack",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 4,
+    "title": "Fold laundry",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 5,
+    "title": "Watch Atlanta United match",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 6,
+    "title": "Cook dinner",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 7,
+    "title": "Wash the car",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 8,
+    "title": "Pay the bills",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 9,
+    "title": "Buy dog food",
+    "completed": false
+    },
+    {
+    "userId": 1,
+    "id": 10,
+    "title": "Coding practice",
+    "completed": false
+    }
+]
